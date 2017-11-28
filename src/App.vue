@@ -12,7 +12,7 @@
 </b-navbar>
  <div id="content">
   <myHeader id ="zone1"></myHeader>
-  <myHeader id ="zone2"></myHeader>
+  <myIndex id ="zone2"></myIndex>
     <!-- <myContent></myContent> -->
   <myFooter id ="zone3"></myFooter>
 
@@ -26,13 +26,15 @@
 
 import myHeader from './components/header.vue'
 import myFooter from './components/map.vue'
+import myIndex from './components/index.vue'
 export default {
   name: 'app',
-  components: { myHeader, myFooter},
+  components: { myHeader, myFooter,myIndex},
 }
 </script>
 
 <style lang="less">
+@import "./style/base.vars.less";
 @import "./style/style.less";
  #app {
    position: absolute;
@@ -59,7 +61,7 @@ export default {
     top:0;
     width:50%;
     height:100%;
-    background: @color-main;
+    //background: @color-main;
    }
    #zone3{
     position: absolute;

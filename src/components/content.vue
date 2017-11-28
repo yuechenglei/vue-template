@@ -1,7 +1,7 @@
 <!-- 网络请求，vuex，vuerouter的使用 -->
 <template>
   <div>
-    <myHeader></myHeader>
+    <!-- <myHeader></myHeader> -->
     <p>content</p>
     <h2>{{index}}</h2>
     <h2>{{singer}}</h2>

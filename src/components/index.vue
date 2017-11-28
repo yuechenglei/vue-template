@@ -1,8 +1,8 @@
 <template>
   <div>
     <myHeader></myHeader>
-    <!-- <myContent></myContent> -->
-    <myFooter></myFooter>
+    <myContent></myContent>
+    <!-- <myFooter></myFooter> -->
   </div>
 </template>
 <script>

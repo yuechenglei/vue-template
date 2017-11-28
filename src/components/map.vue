@@ -18,7 +18,7 @@ export default {
   mounted () {
     this.getData();
     // console.log(this.$refs.mainTable)
-    console.log(this.$refs.mapContainer)
+    // console.log(this.$refs.mapContainer)
 
     this.Map = new Map(this.$refs.mapContainer)
   },
