@@ -7,7 +7,7 @@
 
 <script>
 import Map from '../charts/MapView'
-import $ from 'jquery'
+// import $ from 'jquery'
 export default {
   // components: { myHeader, myContent, myFooter },
   data () {
