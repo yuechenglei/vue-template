@@ -7,6 +7,7 @@ VueRouter2 实现单页面项目前端路由组织。
 webpack 项目打包以及编译工具。
 Axios 接口请求工具。
 使用npm进行前端包管理器以及vue-cli脚手架构建。
+UI Bootstrape 和 Element UI
 ## Build Setup
 
 ``` bash

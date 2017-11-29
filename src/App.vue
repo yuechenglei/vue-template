@@ -34,8 +34,9 @@ export default {
 </script>
 
 <style lang="less">
-@import "./style/base.vars.less";
-@import "./style/style.less";
+@import "./style/base/base.vars.less";
+@import "./style/base/style.less";
+@import "./style/base/element.less";
  #app {
    position: absolute;
     height: 100%;

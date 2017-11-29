@@ -54,3 +54,6 @@
 [1128/233652.848:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: 拒绝访问。 (0x5)
 [1128/233653.094:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: 管道已结束。 (0x6D)
 [1128/233653.154:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[1129/154328.015:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: 拒绝访问。 (0x5)
+[1129/154328.328:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: 管道已结束。 (0x6D)
+[1129/154328.329:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
