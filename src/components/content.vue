@@ -23,12 +23,13 @@
 import myHeader from '../components/header.vue'
 // import myFooter from '../components/map.vue'
 import {mapActions,mapGetters} from 'vuex'
-import {singer} from '../vuex/getters'
+// import {singer} from '../vuex/getters'
 export default {
   components: { myHeader},
   methods:{
 
   ...mapActions(['addIndex',]),
+  
   getData () { //网络请求
       this.$api.get('topics', null, r => {
         this.list = r.data

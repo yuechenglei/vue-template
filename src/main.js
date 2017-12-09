@@ -6,15 +6,11 @@ Vue.use(Vuex)
 import App from './App'
 import router from './router'
 import store from './vuex/index'; //store
-import BootstrapVue from 'bootstrap-vue'
-Vue.use(BootstrapVue)
-import 'bootstrap/dist/css/bootstrap.css'
-import 'bootstrap-vue/dist/bootstrap-vue.css'
-import 'font-awesome/css/font-awesome.css';
 
-import ElementUI from 'element-ui'
-import 'element-ui/lib/theme-chalk/index.css'
-Vue.use(ElementUI)
+import 'font-awesome/css/font-awesome.css';
+import iView from 'iview'
+import 'iview/dist/styles/iview.css'
+Vue.use(iView)
 
 
 // API
