@@ -12,7 +12,14 @@ import iView from 'iview'
 import 'iview/dist/styles/iview.css'
 Vue.use(iView)
 
-
+//loadingBar
+router.beforeEach((to, from, next) => {
+  iView.LoadingBar.start();
+  next();
+});
+router.afterEach(route => {
+  iView.LoadingBar.finish();
+});
 // API
 import api from './api/index.js'
 // make global

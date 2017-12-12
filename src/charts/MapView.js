@@ -22,7 +22,7 @@ export default class {
       if (error) throw error;
 
       // Load the CSV data
-      console.log(data)
+      // console.log(data)
     })
   }
 

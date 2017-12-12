@@ -24,13 +24,47 @@ export default {
   name: 'app',
   components: { myHeader, myFooter, myIndex },
   mounted() {
-    d3.json("../static/data.json", function(error, data) {
+    ///////////////load data before render
+    // d3.json("../static/data.json", function(error, data) {
+    //   if (error) throw error;
+
+    //   // Load the CSV data
+    //   console.log(data)
+    // })
+  },
+  async created() {
+    var self = this;
+    this.$Loading.start();
+    await d3.json("../static/data.json", function(error, data) {
       if (error) throw error;
 
       // Load the CSV data
+      self.sleep(1000)
       console.log(data)
     })
+
+    await d3.csv("../static/d.csv", function(error, data) {
+      if (error) throw error;
+
+      // Load the CSV data
+      self.sleep(1000)
+      console.log(data)
+    })
+
+    this.$Loading.finish();
   },
+
+  methods: {
+    sleep(time) {
+      var now = new Date();
+      var exitTime = now.getTime() + time;
+      while (true) {
+        now = new Date();
+        if (now.getTime() > exitTime)
+          return;
+      }
+    }
+  }
 }
 
 </script>
