@@ -1,0 +1,3537 @@
+[
+  {
+    "date": "4/1/2016 0:00",
+    "direction": 190.5,
+    "speed": 4
+  },
+  {
+    "date": "4/1/2016 3:00",
+    "direction": 203.3,
+    "speed": 5
+  },
+  {
+    "date": "4/1/2016 6:00",
+    "direction": 201.1,
+    "speed": 5.2
+  },
+  {
+    "date": "4/1/2016 9:00",
+    "direction": 204.9,
+    "speed": 4.1
+  },
+  {
+    "date": "4/1/2016 12:00",
+    "direction": 207,
+    "speed": 3.6
+  },
+  {
+    "date": "4/1/2016 15:00",
+    "direction": 207.1,
+    "speed": 3
+  },
+  {
+    "date": "4/1/2016 18:00",
+    "direction": 243.8,
+    "speed": 1.9
+  },
+  {
+    "date": "4/1/2016 21:00",
+    "direction": 262.1,
+    "speed": 2.9
+  },
+  {
+    "date": "4/2/2016 0:00",
+    "direction": 262.3,
+    "speed": 2.9
+  },
+  {
+    "date": "4/2/2016 3:00",
+    "direction": 271.8,
+    "speed": 2.8
+  },
+  {
+    "date": "4/2/2016 6:00",
+    "direction": 279.8,
+    "speed": 1.5
+  },
+  {
+    "date": "4/2/2016 9:00",
+    "direction": 272.3,
+    "speed": 1.3
+  },
+  {
+    "date": "4/2/2016 12:00",
+    "direction": 203.3,
+    "speed": 1.3
+  },
+  {
+    "date": "4/2/2016 15:00",
+    "direction": 188.6,
+    "speed": 2.1
+  },
+  {
+    "date": "4/2/2016 18:00",
+    "direction": 199.9,
+    "speed": 2.7
+  },
+  {
+    "date": "4/2/2016 21:00",
+    "direction": 225,
+    "speed": 2.6
+  },
+  {
+    "date": "4/3/2016 0:00",
+    "direction": 274.7,
+    "speed": 2.8
+  },
+  {
+    "date": "4/3/2016 3:00",
+    "direction": 298.9,
+    "speed": 2.2
+  },
+  {
+    "date": "4/3/2016 6:00",
+    "direction": 316.9,
+    "speed": 2.1
+  },
+  {
+    "date": "4/3/2016 9:00",
+    "direction": 328.3,
+    "speed": 3.7
+  },
+  {
+    "date": "4/3/2016 12:00",
+    "direction": 324.8,
+    "speed": 4.3
+  },
+  {
+    "date": "4/3/2016 15:00",
+    "direction": 313.1,
+    "speed": 4.6
+  },
+  {
+    "date": "4/3/2016 18:00",
+    "direction": 295.2,
+    "speed": 5.2
+  },
+  {
+    "date": "4/3/2016 21:00",
+    "direction": 296.4,
+    "speed": 5.6
+  },
+  {
+    "date": "4/4/2016 0:00",
+    "direction": 299.4,
+    "speed": 4.3
+  },
+  {
+    "date": "4/4/2016 3:00",
+    "direction": 302,
+    "speed": 4
+  },
+  {
+    "date": "4/4/2016 6:00",
+    "direction": 295.7,
+    "speed": 2
+  },
+  {
+    "date": "4/4/2016 9:00",
+    "direction": 292.1,
+    "speed": 1.4
+  },
+  {
+    "date": "4/4/2016 12:00",
+    "direction": 292.5,
+    "speed": 1.4
+  },
+  {
+    "date": "4/4/2016 15:00",
+    "direction": 325.8,
+    "speed": 0.8
+  },
+  {
+    "date": "4/4/2016 18:00",
+    "direction": 358.4,
+    "speed": 1.2
+  },
+  {
+    "date": "4/4/2016 21:00",
+    "direction": 344.1,
+    "speed": 1.8
+  },
+  {
+    "date": "4/5/2016 0:00",
+    "direction": 341.7,
+    "speed": 1.7
+  },
+  {
+    "date": "4/5/2016 3:00",
+    "direction": 351.6,
+    "speed": 1.8
+  },
+  {
+    "date": "4/5/2016 6:00",
+    "direction": 1.3,
+    "speed": 1.3
+  },
+  {
+    "date": "4/5/2016 9:00",
+    "direction": 353.9,
+    "speed": 1.2
+  },
+  {
+    "date": "4/5/2016 12:00",
+    "direction": 347.3,
+    "speed": 2.5
+  },
+  {
+    "date": "4/5/2016 15:00",
+    "direction": 318.4,
+    "speed": 3
+  },
+  {
+    "date": "4/5/2016 18:00",
+    "direction": 312.9,
+    "speed": 3.6
+  },
+  {
+    "date": "4/5/2016 21:00",
+    "direction": 309.1,
+    "speed": 3.2
+  },
+  {
+    "date": "4/6/2016 0:00",
+    "direction": 307.1,
+    "speed": 2.3
+  },
+  {
+    "date": "4/6/2016 3:00",
+    "direction": 289.4,
+    "speed": 1.5
+  },
+  {
+    "date": "4/6/2016 6:00",
+    "direction": 270.8,
+    "speed": 0.9
+  },
+  {
+    "date": "4/6/2016 9:00",
+    "direction": 245.1,
+    "speed": 0.8
+  },
+  {
+    "date": "4/6/2016 12:00",
+    "direction": 225.6,
+    "speed": 0.8
+  },
+  {
+    "date": "4/6/2016 15:00",
+    "direction": 206.9,
+    "speed": 2
+  },
+  {
+    "date": "4/6/2016 18:00",
+    "direction": 200.7,
+    "speed": 3.3
+  },
+  {
+    "date": "4/6/2016 21:00",
+    "direction": 193.2,
+    "speed": 3.8
+  },
+  {
+    "date": "4/7/2016 0:00",
+    "direction": 175.1,
+    "speed": 2.9
+  },
+  {
+    "date": "4/7/2016 3:00",
+    "direction": 182.5,
+    "speed": 3
+  },
+  {
+    "date": "4/7/2016 6:00",
+    "direction": 169.2,
+    "speed": 2.8
+  },
+  {
+    "date": "4/7/2016 9:00",
+    "direction": 168.8,
+    "speed": 2.3
+  },
+  {
+    "date": "4/7/2016 12:00",
+    "direction": 170.5,
+    "speed": 2.9
+  },
+  {
+    "date": "4/7/2016 15:00",
+    "direction": 172.1,
+    "speed": 3.7
+  },
+  {
+    "date": "4/7/2016 18:00",
+    "direction": 157.1,
+    "speed": 4.4
+  },
+  {
+    "date": "4/7/2016 21:00",
+    "direction": 141.1,
+    "speed": 5.2
+  },
+  {
+    "date": "4/8/2016 0:00",
+    "direction": 156.4,
+    "speed": 5.2
+  },
+  {
+    "date": "4/8/2016 3:00",
+    "direction": 196.5,
+    "speed": 2.5
+  },
+  {
+    "date": "4/8/2016 6:00",
+    "direction": 222.7,
+    "speed": 1.3
+  },
+  {
+    "date": "4/8/2016 9:00",
+    "direction": 201.2,
+    "speed": 0.7
+  },
+  {
+    "date": "4/8/2016 12:00",
+    "direction": 200.2,
+    "speed": 0.5
+  },
+  {
+    "date": "4/8/2016 15:00",
+    "direction": 249.7,
+    "speed": 1.2
+  },
+  {
+    "date": "4/8/2016 18:00",
+    "direction": 221.3,
+    "speed": 2.6
+  },
+  {
+    "date": "4/8/2016 21:00",
+    "direction": 245,
+    "speed": 2.8
+  },
+  {
+    "date": "4/9/2016 0:00",
+    "direction": 265.4,
+    "speed": 2.4
+  },
+  {
+    "date": "4/9/2016 3:00",
+    "direction": 279.8,
+    "speed": 2.3
+  },
+  {
+    "date": "4/9/2016 6:00",
+    "direction": 277.5,
+    "speed": 2.6
+  },
+  {
+    "date": "4/9/2016 9:00",
+    "direction": 289.4,
+    "speed": 2.5
+  },
+  {
+    "date": "4/9/2016 12:00",
+    "direction": 296.6,
+    "speed": 2.2
+  },
+  {
+    "date": "4/9/2016 15:00",
+    "direction": 294.9,
+    "speed": 2.6
+  },
+  {
+    "date": "4/9/2016 18:00",
+    "direction": 318.9,
+    "speed": 2.8
+  },
+  {
+    "date": "4/9/2016 21:00",
+    "direction": 315.9,
+    "speed": 2.9
+  },
+  {
+    "date": "4/10/2016 0:00",
+    "direction": 336.8,
+    "speed": 2.7
+  },
+  {
+    "date": "4/10/2016 3:00",
+    "direction": 334.8,
+    "speed": 3.3
+  },
+  {
+    "date": "4/10/2016 6:00",
+    "direction": 334.3,
+    "speed": 3.5
+  },
+  {
+    "date": "4/10/2016 9:00",
+    "direction": 326.9,
+    "speed": 2.6
+  },
+  {
+    "date": "4/10/2016 12:00",
+    "direction": 305.7,
+    "speed": 2.8
+  },
+  {
+    "date": "4/10/2016 15:00",
+    "direction": 292.2,
+    "speed": 2.4
+  },
+  {
+    "date": "4/10/2016 18:00",
+    "direction": 287,
+    "speed": 2.8
+  },
+  {
+    "date": "4/10/2016 21:00",
+    "direction": 279.8,
+    "speed": 2.4
+  },
+  {
+    "date": "4/11/2016 0:00",
+    "direction": 292.5,
+    "speed": 0.6
+  },
+  {
+    "date": "4/11/2016 3:00",
+    "direction": 158.9,
+    "speed": 0.6
+  },
+  {
+    "date": "4/11/2016 6:00",
+    "direction": 145.2,
+    "speed": 1.1
+  },
+  {
+    "date": "4/11/2016 9:00",
+    "direction": 155.9,
+    "speed": 2.3
+  },
+  {
+    "date": "4/11/2016 12:00",
+    "direction": 160.5,
+    "speed": 2.9
+  },
+  {
+    "date": "4/11/2016 15:00",
+    "direction": 164.1,
+    "speed": 3.3
+  },
+  {
+    "date": "4/11/2016 18:00",
+    "direction": 174.4,
+    "speed": 3.6
+  },
+  {
+    "date": "4/11/2016 21:00",
+    "direction": 172.9,
+    "speed": 2.6
+  },
+  {
+    "date": "4/12/2016 0:00",
+    "direction": 171.5,
+    "speed": 2.6
+  },
+  {
+    "date": "4/12/2016 3:00",
+    "direction": 187.1,
+    "speed": 2.9
+  },
+  {
+    "date": "4/12/2016 6:00",
+    "direction": 174.8,
+    "speed": 2.2
+  },
+  {
+    "date": "4/12/2016 9:00",
+    "direction": 170.1,
+    "speed": 2.4
+  },
+  {
+    "date": "4/12/2016 12:00",
+    "direction": 197.6,
+    "speed": 1.1
+  },
+  {
+    "date": "4/12/2016 15:00",
+    "direction": 277.5,
+    "speed": 1.6
+  },
+  {
+    "date": "4/12/2016 18:00",
+    "direction": 288.7,
+    "speed": 2.6
+  },
+  {
+    "date": "4/12/2016 21:00",
+    "direction": 286.4,
+    "speed": 3.2
+  },
+  {
+    "date": "4/13/2016 0:00",
+    "direction": 282.2,
+    "speed": 1.8
+  },
+  {
+    "date": "4/13/2016 3:00",
+    "direction": 292.9,
+    "speed": 1.8
+  },
+  {
+    "date": "4/13/2016 6:00",
+    "direction": 291.3,
+    "speed": 1.9
+  },
+  {
+    "date": "4/13/2016 9:00",
+    "direction": 305.6,
+    "speed": 2
+  },
+  {
+    "date": "4/13/2016 12:00",
+    "direction": 327,
+    "speed": 2.6
+  },
+  {
+    "date": "4/13/2016 15:00",
+    "direction": 325.7,
+    "speed": 2.7
+  },
+  {
+    "date": "4/13/2016 18:00",
+    "direction": 330,
+    "speed": 2
+  },
+  {
+    "date": "4/13/2016 21:00",
+    "direction": 336.6,
+    "speed": 2
+  },
+  {
+    "date": "4/14/2016 0:00",
+    "direction": 334.5,
+    "speed": 1
+  },
+  {
+    "date": "4/14/2016 3:00",
+    "direction": 9.8,
+    "speed": 0.6
+  },
+  {
+    "date": "4/14/2016 6:00",
+    "direction": 9.8,
+    "speed": 0.8
+  },
+  {
+    "date": "4/14/2016 9:00",
+    "direction": 357.1,
+    "speed": 0.4
+  },
+  {
+    "date": "4/14/2016 12:00",
+    "direction": 59.6,
+    "speed": 1
+  },
+  {
+    "date": "4/14/2016 15:00",
+    "direction": 354.8,
+    "speed": 0.8
+  },
+  {
+    "date": "4/14/2016 18:00",
+    "direction": 351.4,
+    "speed": 1.8
+  },
+  {
+    "date": "4/14/2016 21:00",
+    "direction": 0.1,
+    "speed": 2.3
+  },
+  {
+    "date": "4/15/2016 0:00",
+    "direction": 5.5,
+    "speed": 1.4
+  },
+  {
+    "date": "4/15/2016 3:00",
+    "direction": 30.6,
+    "speed": 0.8
+  },
+  {
+    "date": "4/15/2016 6:00",
+    "direction": 53.4,
+    "speed": 0.6
+  },
+  {
+    "date": "4/15/2016 9:00",
+    "direction": 40.1,
+    "speed": 0.6
+  },
+  {
+    "date": "4/15/2016 12:00",
+    "direction": 67.4,
+    "speed": 1.2
+  },
+  {
+    "date": "4/15/2016 15:00",
+    "direction": 32.5,
+    "speed": 2.4
+  },
+  {
+    "date": "4/15/2016 18:00",
+    "direction": 19.5,
+    "speed": 2.6
+  },
+  {
+    "date": "4/15/2016 21:00",
+    "direction": 10.7,
+    "speed": 2.8
+  },
+  {
+    "date": "4/16/2016 0:00",
+    "direction": 13.4,
+    "speed": 1.4
+  },
+  {
+    "date": "4/16/2016 3:00",
+    "direction": 27.1,
+    "speed": 1.1
+  },
+  {
+    "date": "4/16/2016 6:00",
+    "direction": 49.6,
+    "speed": 0.5
+  },
+  {
+    "date": "4/16/2016 9:00",
+    "direction": 68,
+    "speed": 0.4
+  },
+  {
+    "date": "4/16/2016 12:00",
+    "direction": 59,
+    "speed": 0.8
+  },
+  {
+    "date": "4/16/2016 15:00",
+    "direction": 55.1,
+    "speed": 1.3
+  },
+  {
+    "date": "4/16/2016 18:00",
+    "direction": 28.3,
+    "speed": 1.1
+  },
+  {
+    "date": "4/16/2016 21:00",
+    "direction": 4.1,
+    "speed": 1.6
+  },
+  {
+    "date": "4/17/2016 0:00",
+    "direction": 45.6,
+    "speed": 0.8
+  },
+  {
+    "date": "4/17/2016 3:00",
+    "direction": 130.2,
+    "speed": 1.1
+  },
+  {
+    "date": "4/17/2016 6:00",
+    "direction": 128.3,
+    "speed": 0.7
+  },
+  {
+    "date": "4/17/2016 9:00",
+    "direction": 176.3,
+    "speed": 0.6
+  },
+  {
+    "date": "4/17/2016 12:00",
+    "direction": 279.8,
+    "speed": 0.3
+  },
+  {
+    "date": "4/17/2016 15:00",
+    "direction": 308.2,
+    "speed": 0.8
+  },
+  {
+    "date": "4/17/2016 18:00",
+    "direction": 311.1,
+    "speed": 1.5
+  },
+  {
+    "date": "4/17/2016 21:00",
+    "direction": 315.5,
+    "speed": 2.5
+  },
+  {
+    "date": "4/18/2016 0:00",
+    "direction": 306.4,
+    "speed": 1.1
+  },
+  {
+    "date": "4/18/2016 3:00",
+    "direction": 302.9,
+    "speed": 0.6
+  },
+  {
+    "date": "4/18/2016 6:00",
+    "direction": 296,
+    "speed": 0.5
+  },
+  {
+    "date": "4/18/2016 9:00",
+    "direction": 0.1,
+    "speed": 0.5
+  },
+  {
+    "date": "4/18/2016 12:00",
+    "direction": 337.9,
+    "speed": 0.9
+  },
+  {
+    "date": "4/18/2016 15:00",
+    "direction": 340,
+    "speed": 0.9
+  },
+  {
+    "date": "4/18/2016 18:00",
+    "direction": 353.4,
+    "speed": 1.2
+  },
+  {
+    "date": "4/18/2016 21:00",
+    "direction": 355.7,
+    "speed": 1.2
+  },
+  {
+    "date": "4/19/2016 0:00",
+    "direction": 9.8,
+    "speed": 0.4
+  },
+  {
+    "date": "4/19/2016 3:00",
+    "direction": 354.9,
+    "speed": 0.5
+  },
+  {
+    "date": "4/19/2016 6:00",
+    "direction": 358.3,
+    "speed": 0.9
+  },
+  {
+    "date": "4/19/2016 9:00",
+    "direction": 344.6,
+    "speed": 1.1
+  },
+  {
+    "date": "4/19/2016 12:00",
+    "direction": 336.1,
+    "speed": 1.6
+  },
+  {
+    "date": "4/19/2016 15:00",
+    "direction": 327.4,
+    "speed": 3.1
+  },
+  {
+    "date": "4/19/2016 18:00",
+    "direction": 321.8,
+    "speed": 4.3
+  },
+  {
+    "date": "4/19/2016 21:00",
+    "direction": 319.6,
+    "speed": 4.8
+  },
+  {
+    "date": "4/20/2016 0:00",
+    "direction": 328.1,
+    "speed": 3.4
+  },
+  {
+    "date": "4/20/2016 3:00",
+    "direction": 331.5,
+    "speed": 3.3
+  },
+  {
+    "date": "4/20/2016 6:00",
+    "direction": 341.8,
+    "speed": 2.9
+  },
+  {
+    "date": "4/20/2016 9:00",
+    "direction": 341.9,
+    "speed": 2.1
+  },
+  {
+    "date": "4/20/2016 12:00",
+    "direction": 355.1,
+    "speed": 2.4
+  },
+  {
+    "date": "4/20/2016 15:00",
+    "direction": 341,
+    "speed": 2.1
+  },
+  {
+    "date": "4/20/2016 18:00",
+    "direction": 326.2,
+    "speed": 2.5
+  },
+  {
+    "date": "4/20/2016 21:00",
+    "direction": 322.9,
+    "speed": 3
+  },
+  {
+    "date": "4/21/2016 0:00",
+    "direction": 315.7,
+    "speed": 1.2
+  },
+  {
+    "date": "4/21/2016 3:00",
+    "direction": 249.1,
+    "speed": 0.8
+  },
+  {
+    "date": "4/21/2016 6:00",
+    "direction": 211.1,
+    "speed": 0.6
+  },
+  {
+    "date": "4/21/2016 9:00",
+    "direction": 196.9,
+    "speed": 0.8
+  },
+  {
+    "date": "4/21/2016 12:00",
+    "direction": 221.2,
+    "speed": 0.5
+  },
+  {
+    "date": "4/21/2016 15:00",
+    "direction": 250.2,
+    "speed": 1.9
+  },
+  {
+    "date": "4/21/2016 18:00",
+    "direction": 267.3,
+    "speed": 2.2
+  },
+  {
+    "date": "4/21/2016 21:00",
+    "direction": 276.3,
+    "speed": 2.3
+  },
+  {
+    "date": "4/22/2016 0:00",
+    "direction": 315.9,
+    "speed": 0.7
+  },
+  {
+    "date": "4/22/2016 3:00",
+    "direction": 189.8,
+    "speed": 0.4
+  },
+  {
+    "date": "4/22/2016 6:00",
+    "direction": 160.8,
+    "speed": 0.7
+  },
+  {
+    "date": "4/22/2016 9:00",
+    "direction": 235,
+    "speed": 1
+  },
+  {
+    "date": "4/22/2016 12:00",
+    "direction": 162,
+    "speed": 0.7
+  },
+  {
+    "date": "4/22/2016 15:00",
+    "direction": 188.9,
+    "speed": 2.2
+  },
+  {
+    "date": "4/22/2016 18:00",
+    "direction": 211.5,
+    "speed": 3.2
+  },
+  {
+    "date": "4/22/2016 21:00",
+    "direction": 251.2,
+    "speed": 2.9
+  },
+  {
+    "date": "4/23/2016 0:00",
+    "direction": 306.5,
+    "speed": 1.2
+  },
+  {
+    "date": "4/23/2016 3:00",
+    "direction": 313.9,
+    "speed": 1.2
+  },
+  {
+    "date": "4/23/2016 6:00",
+    "direction": 326.7,
+    "speed": 2.1
+  },
+  {
+    "date": "4/23/2016 9:00",
+    "direction": 332.4,
+    "speed": 2.2
+  },
+  {
+    "date": "4/23/2016 12:00",
+    "direction": 333.6,
+    "speed": 2.7
+  },
+  {
+    "date": "4/23/2016 15:00",
+    "direction": 328,
+    "speed": 3.2
+  },
+  {
+    "date": "4/23/2016 18:00",
+    "direction": 328.9,
+    "speed": 3.4
+  },
+  {
+    "date": "4/23/2016 21:00",
+    "direction": 329.5,
+    "speed": 3.8
+  },
+  {
+    "date": "4/24/2016 0:00",
+    "direction": 331.8,
+    "speed": 2.5
+  },
+  {
+    "date": "4/24/2016 3:00",
+    "direction": 338.6,
+    "speed": 2.1
+  },
+  {
+    "date": "4/24/2016 6:00",
+    "direction": 346.9,
+    "speed": 2.3
+  },
+  {
+    "date": "4/24/2016 9:00",
+    "direction": 336.2,
+    "speed": 2.1
+  },
+  {
+    "date": "4/24/2016 12:00",
+    "direction": 339,
+    "speed": 3.2
+  },
+  {
+    "date": "4/24/2016 15:00",
+    "direction": 345.5,
+    "speed": 3
+  },
+  {
+    "date": "4/24/2016 18:00",
+    "direction": 335.1,
+    "speed": 2.9
+  },
+  {
+    "date": "4/24/2016 21:00",
+    "direction": 311.5,
+    "speed": 2.9
+  },
+  {
+    "date": "4/25/2016 0:00",
+    "direction": 286.7,
+    "speed": 1.6
+  },
+  {
+    "date": "4/25/2016 3:00",
+    "direction": 256.1,
+    "speed": 0.9
+  },
+  {
+    "date": "4/25/2016 6:00",
+    "direction": 293.8,
+    "speed": 1.5
+  },
+  {
+    "date": "4/25/2016 9:00",
+    "direction": 294.4,
+    "speed": 1
+  },
+  {
+    "date": "4/25/2016 12:00",
+    "direction": 313.5,
+    "speed": 1.9
+  },
+  {
+    "date": "4/25/2016 15:00",
+    "direction": 292.3,
+    "speed": 2.6
+  },
+  {
+    "date": "4/25/2016 18:00",
+    "direction": 296.2,
+    "speed": 3.2
+  },
+  {
+    "date": "4/25/2016 21:00",
+    "direction": 315.3,
+    "speed": 3
+  },
+  {
+    "date": "4/26/2016 0:00",
+    "direction": 329,
+    "speed": 1.5
+  },
+  {
+    "date": "4/26/2016 3:00",
+    "direction": 5.1,
+    "speed": 0.7
+  },
+  {
+    "date": "4/26/2016 6:00",
+    "direction": 9.8,
+    "speed": 0.3
+  },
+  {
+    "date": "4/26/2016 9:00",
+    "direction": 26.9,
+    "speed": 0.3
+  },
+  {
+    "date": "4/26/2016 12:00",
+    "direction": 91.9,
+    "speed": 0.7
+  },
+  {
+    "date": "4/26/2016 15:00",
+    "direction": 36.8,
+    "speed": 0.5
+  },
+  {
+    "date": "4/26/2016 18:00",
+    "direction": 9.8,
+    "speed": 0.5
+  },
+  {
+    "date": "4/26/2016 21:00",
+    "direction": 290.5,
+    "speed": 1.2
+  },
+  {
+    "date": "4/27/2016 0:00",
+    "direction": 306.6,
+    "speed": 1.2
+  },
+  {
+    "date": "4/27/2016 3:00",
+    "direction": 258.7,
+    "speed": 0.8
+  },
+  {
+    "date": "4/27/2016 6:00",
+    "direction": 285.6,
+    "speed": 1.2
+  },
+  {
+    "date": "4/27/2016 9:00",
+    "direction": 315.1,
+    "speed": 1.2
+  },
+  {
+    "date": "4/27/2016 12:00",
+    "direction": 303.3,
+    "speed": 2.2
+  },
+  {
+    "date": "4/27/2016 15:00",
+    "direction": 285.6,
+    "speed": 2.6
+  },
+  {
+    "date": "4/27/2016 18:00",
+    "direction": 281.3,
+    "speed": 3.2
+  },
+  {
+    "date": "4/27/2016 21:00",
+    "direction": 284.3,
+    "speed": 3.5
+  },
+  {
+    "date": "4/28/2016 0:00",
+    "direction": 312.2,
+    "speed": 3.1
+  },
+  {
+    "date": "4/28/2016 3:00",
+    "direction": 331.3,
+    "speed": 1.3
+  },
+  {
+    "date": "4/28/2016 6:00",
+    "direction": 299.6,
+    "speed": 0.5
+  },
+  {
+    "date": "4/28/2016 9:00",
+    "direction": 307.5,
+    "speed": 2
+  },
+  {
+    "date": "4/28/2016 12:00",
+    "direction": 329.1,
+    "speed": 3.1
+  },
+  {
+    "date": "4/28/2016 15:00",
+    "direction": 328.7,
+    "speed": 2.3
+  },
+  {
+    "date": "4/28/2016 18:00",
+    "direction": 318.5,
+    "speed": 1.8
+  },
+  {
+    "date": "4/28/2016 21:00",
+    "direction": 323.9,
+    "speed": 2.1
+  },
+  {
+    "date": "4/29/2016 0:00",
+    "direction": 349.4,
+    "speed": 1.4
+  },
+  {
+    "date": "4/29/2016 3:00",
+    "direction": 44.6,
+    "speed": 0.9
+  },
+  {
+    "date": "4/29/2016 6:00",
+    "direction": 359.1,
+    "speed": 0.4
+  },
+  {
+    "date": "4/29/2016 9:00",
+    "direction": 46.3,
+    "speed": 0.2
+  },
+  {
+    "date": "4/29/2016 12:00",
+    "direction": 177.9,
+    "speed": 1.3
+  },
+  {
+    "date": "4/29/2016 15:00",
+    "direction": 228.6,
+    "speed": 1.7
+  },
+  {
+    "date": "4/29/2016 18:00",
+    "direction": 252.9,
+    "speed": 1.5
+  },
+  {
+    "date": "4/29/2016 21:00",
+    "direction": 272.7,
+    "speed": 1.9
+  },
+  {
+    "date": "4/30/2016 0:00",
+    "direction": 346.2,
+    "speed": 1.2
+  },
+  {
+    "date": "4/30/2016 3:00",
+    "direction": 69.6,
+    "speed": 0.8
+  },
+  {
+    "date": "4/30/2016 6:00",
+    "direction": 21.8,
+    "speed": 0.7
+  },
+  {
+    "date": "4/30/2016 9:00",
+    "direction": 38.3,
+    "speed": 0.7
+  },
+  {
+    "date": "4/30/2016 12:00",
+    "direction": 350.4,
+    "speed": 0.4
+  },
+  {
+    "date": "4/30/2016 15:00",
+    "direction": 299.7,
+    "speed": 1.1
+  },
+  {
+    "date": "4/30/2016 18:00",
+    "direction": 324.3,
+    "speed": 1.5
+  },
+  {
+    "date": "4/30/2016 21:00",
+    "direction": 311.8,
+    "speed": 1.2
+  },
+  {
+    "date": "8/4/2016 18:00",
+    "direction": 225,
+    "speed": 2.6
+  },
+  {
+    "date": "8/4/2016 21:00",
+    "direction": 229.7,
+    "speed": 2.8
+  },
+  {
+    "date": "8/5/2016 0:00",
+    "direction": 231.1,
+    "speed": 1
+  },
+  {
+    "date": "8/5/2016 3:00",
+    "direction": 187.2,
+    "speed": 0.8
+  },
+  {
+    "date": "8/5/2016 6:00",
+    "direction": 178.7,
+    "speed": 0.9
+  },
+  {
+    "date": "8/5/2016 9:00",
+    "direction": 176.4,
+    "speed": 0.9
+  },
+  {
+    "date": "8/5/2016 12:00",
+    "direction": 181.2,
+    "speed": 1.8
+  },
+  {
+    "date": "8/5/2016 15:00",
+    "direction": 196.2,
+    "speed": 2.5
+  },
+  {
+    "date": "8/5/2016 18:00",
+    "direction": 201.5,
+    "speed": 3.8
+  },
+  {
+    "date": "8/5/2016 21:00",
+    "direction": 212.9,
+    "speed": 3.4
+  },
+  {
+    "date": "8/6/2016 0:00",
+    "direction": 200.2,
+    "speed": 3
+  },
+  {
+    "date": "8/6/2016 3:00",
+    "direction": 206.5,
+    "speed": 3.1
+  },
+  {
+    "date": "8/6/2016 6:00",
+    "direction": 204.9,
+    "speed": 2.1
+  },
+  {
+    "date": "8/6/2016 9:00",
+    "direction": 217.3,
+    "speed": 2.1
+  },
+  {
+    "date": "8/6/2016 12:00",
+    "direction": 226.6,
+    "speed": 1.7
+  },
+  {
+    "date": "8/6/2016 15:00",
+    "direction": 268.4,
+    "speed": 3.4
+  },
+  {
+    "date": "8/6/2016 18:00",
+    "direction": 288.7,
+    "speed": 3.3
+  },
+  {
+    "date": "8/6/2016 21:00",
+    "direction": 307.1,
+    "speed": 3.4
+  },
+  {
+    "date": "8/7/2016 0:00",
+    "direction": 303.2,
+    "speed": 2
+  },
+  {
+    "date": "8/7/2016 3:00",
+    "direction": 287.7,
+    "speed": 0.9
+  },
+  {
+    "date": "8/7/2016 6:00",
+    "direction": 235.9,
+    "speed": 0.3
+  },
+  {
+    "date": "8/7/2016 9:00",
+    "direction": 262.2,
+    "speed": 0.7
+  },
+  {
+    "date": "8/7/2016 12:00",
+    "direction": 271.6,
+    "speed": 1.1
+  },
+  {
+    "date": "8/7/2016 15:00",
+    "direction": 288.4,
+    "speed": 3.1
+  },
+  {
+    "date": "8/7/2016 18:00",
+    "direction": 286.7,
+    "speed": 3.1
+  },
+  {
+    "date": "8/7/2016 21:00",
+    "direction": 286.3,
+    "speed": 3.2
+  },
+  {
+    "date": "8/8/2016 0:00",
+    "direction": 294.1,
+    "speed": 2
+  },
+  {
+    "date": "8/8/2016 3:00",
+    "direction": 279.8,
+    "speed": 0.8
+  },
+  {
+    "date": "8/8/2016 6:00",
+    "direction": 241,
+    "speed": 0.4
+  },
+  {
+    "date": "8/8/2016 9:00",
+    "direction": 252.3,
+    "speed": 0.7
+  },
+  {
+    "date": "8/8/2016 12:00",
+    "direction": 235,
+    "speed": 0.9
+  },
+  {
+    "date": "8/8/2016 15:00",
+    "direction": 279.8,
+    "speed": 3.9
+  },
+  {
+    "date": "8/8/2016 18:00",
+    "direction": 288.1,
+    "speed": 4
+  },
+  {
+    "date": "8/8/2016 21:00",
+    "direction": 304.2,
+    "speed": 3.1
+  },
+  {
+    "date": "8/9/2016 0:00",
+    "direction": 307.4,
+    "speed": 1.7
+  },
+  {
+    "date": "8/9/2016 3:00",
+    "direction": 279.8,
+    "speed": 0.4
+  },
+  {
+    "date": "8/9/2016 6:00",
+    "direction": 342.7,
+    "speed": 0.5
+  },
+  {
+    "date": "8/9/2016 9:00",
+    "direction": 233.6,
+    "speed": 0.3
+  },
+  {
+    "date": "8/9/2016 12:00",
+    "direction": 99.8,
+    "speed": 0.2
+  },
+  {
+    "date": "8/9/2016 15:00",
+    "direction": 294,
+    "speed": 1.3
+  },
+  {
+    "date": "8/9/2016 18:00",
+    "direction": 278.6,
+    "speed": 1.6
+  },
+  {
+    "date": "8/9/2016 21:00",
+    "direction": 257.7,
+    "speed": 1.6
+  },
+  {
+    "date": "8/10/2016 0:00",
+    "direction": 175.9,
+    "speed": 0.4
+  },
+  {
+    "date": "8/10/2016 3:00",
+    "direction": 135.2,
+    "speed": 0.6
+  },
+  {
+    "date": "8/10/2016 6:00",
+    "direction": 128.3,
+    "speed": 0.7
+  },
+  {
+    "date": "8/10/2016 9:00",
+    "direction": 151.5,
+    "speed": 1.2
+  },
+  {
+    "date": "8/10/2016 12:00",
+    "direction": 169.9,
+    "speed": 1.9
+  },
+  {
+    "date": "8/10/2016 15:00",
+    "direction": 198.4,
+    "speed": 2.4
+  },
+  {
+    "date": "8/10/2016 18:00",
+    "direction": 200,
+    "speed": 3.1
+  },
+  {
+    "date": "8/10/2016 21:00",
+    "direction": 216.1,
+    "speed": 2.1
+  },
+  {
+    "date": "8/11/2016 0:00",
+    "direction": 205.5,
+    "speed": 1.4
+  },
+  {
+    "date": "8/11/2016 3:00",
+    "direction": 189.8,
+    "speed": 0.8
+  },
+  {
+    "date": "8/11/2016 6:00",
+    "direction": 193.5,
+    "speed": 0.6
+  },
+  {
+    "date": "8/11/2016 9:00",
+    "direction": 184.4,
+    "speed": 1.2
+  },
+  {
+    "date": "8/11/2016 12:00",
+    "direction": 194.6,
+    "speed": 1.4
+  },
+  {
+    "date": "8/11/2016 15:00",
+    "direction": 263.4,
+    "speed": 2.4
+  },
+  {
+    "date": "8/11/2016 18:00",
+    "direction": 274.8,
+    "speed": 2.9
+  },
+  {
+    "date": "8/11/2016 21:00",
+    "direction": 295,
+    "speed": 2.6
+  },
+  {
+    "date": "8/12/2016 0:00",
+    "direction": 320.3,
+    "speed": 0.6
+  },
+  {
+    "date": "8/12/2016 3:00",
+    "direction": 226.6,
+    "speed": 0.5
+  },
+  {
+    "date": "8/12/2016 6:00",
+    "direction": 158.6,
+    "speed": 0.6
+  },
+  {
+    "date": "8/12/2016 9:00",
+    "direction": 197.1,
+    "speed": 1
+  },
+  {
+    "date": "8/12/2016 12:00",
+    "direction": 209.9,
+    "speed": 2.6
+  },
+  {
+    "date": "8/12/2016 15:00",
+    "direction": 248.1,
+    "speed": 2.6
+  },
+  {
+    "date": "8/12/2016 18:00",
+    "direction": 279.8,
+    "speed": 1.9
+  },
+  {
+    "date": "8/12/2016 21:00",
+    "direction": 291.7,
+    "speed": 1.4
+  },
+  {
+    "date": "8/13/2016 0:00",
+    "direction": 323.9,
+    "speed": 0.6
+  },
+  {
+    "date": "8/13/2016 3:00",
+    "direction": 350.1,
+    "speed": 0.8
+  },
+  {
+    "date": "8/13/2016 6:00",
+    "direction": 254.6,
+    "speed": 0.1
+  },
+  {
+    "date": "8/13/2016 9:00",
+    "direction": 131.6,
+    "speed": 1.3
+  },
+  {
+    "date": "8/13/2016 12:00",
+    "direction": 136.9,
+    "speed": 2
+  },
+  {
+    "date": "8/13/2016 15:00",
+    "direction": 146.9,
+    "speed": 2.1
+  },
+  {
+    "date": "8/13/2016 18:00",
+    "direction": 136.2,
+    "speed": 2.2
+  },
+  {
+    "date": "8/13/2016 21:00",
+    "direction": 135.8,
+    "speed": 2.8
+  },
+  {
+    "date": "8/14/2016 0:00",
+    "direction": 143.6,
+    "speed": 2.5
+  },
+  {
+    "date": "8/14/2016 3:00",
+    "direction": 159.2,
+    "speed": 2.9
+  },
+  {
+    "date": "8/14/2016 6:00",
+    "direction": 174,
+    "speed": 2.9
+  },
+  {
+    "date": "8/14/2016 9:00",
+    "direction": 200.4,
+    "speed": 2.7
+  },
+  {
+    "date": "8/14/2016 12:00",
+    "direction": 213.2,
+    "speed": 2.5
+  },
+  {
+    "date": "8/14/2016 15:00",
+    "direction": 252.2,
+    "speed": 3.6
+  },
+  {
+    "date": "8/14/2016 18:00",
+    "direction": 279.8,
+    "speed": 3
+  },
+  {
+    "date": "8/14/2016 21:00",
+    "direction": 296.7,
+    "speed": 2.4
+  },
+  {
+    "date": "8/15/2016 0:00",
+    "direction": 306.8,
+    "speed": 2.3
+  },
+  {
+    "date": "8/15/2016 3:00",
+    "direction": 301.9,
+    "speed": 1.7
+  },
+  {
+    "date": "8/15/2016 6:00",
+    "direction": 275.3,
+    "speed": 2
+  },
+  {
+    "date": "8/15/2016 9:00",
+    "direction": 287.6,
+    "speed": 2.1
+  },
+  {
+    "date": "8/15/2016 12:00",
+    "direction": 321.2,
+    "speed": 1.7
+  },
+  {
+    "date": "8/15/2016 15:00",
+    "direction": 324,
+    "speed": 3
+  },
+  {
+    "date": "8/15/2016 18:00",
+    "direction": 319.8,
+    "speed": 2.8
+  },
+  {
+    "date": "8/15/2016 21:00",
+    "direction": 314.1,
+    "speed": 2.3
+  },
+  {
+    "date": "8/16/2016 0:00",
+    "direction": 303.7,
+    "speed": 0.8
+  },
+  {
+    "date": "8/16/2016 3:00",
+    "direction": 211.3,
+    "speed": 0.5
+  },
+  {
+    "date": "8/16/2016 6:00",
+    "direction": 189.8,
+    "speed": 0.6
+  },
+  {
+    "date": "8/16/2016 9:00",
+    "direction": 173.7,
+    "speed": 0.5
+  },
+  {
+    "date": "8/16/2016 12:00",
+    "direction": 146.8,
+    "speed": 0.9
+  },
+  {
+    "date": "8/16/2016 15:00",
+    "direction": 191.4,
+    "speed": 1.6
+  },
+  {
+    "date": "8/16/2016 18:00",
+    "direction": 198.5,
+    "speed": 2.9
+  },
+  {
+    "date": "8/16/2016 21:00",
+    "direction": 156,
+    "speed": 1.8
+  },
+  {
+    "date": "8/17/2016 0:00",
+    "direction": 136.2,
+    "speed": 3.2
+  },
+  {
+    "date": "8/17/2016 3:00",
+    "direction": 154.5,
+    "speed": 4
+  },
+  {
+    "date": "8/17/2016 6:00",
+    "direction": 181.5,
+    "speed": 1.5
+  },
+  {
+    "date": "8/17/2016 9:00",
+    "direction": 223.2,
+    "speed": 1.4
+  },
+  {
+    "date": "8/17/2016 12:00",
+    "direction": 293.7,
+    "speed": 3.4
+  },
+  {
+    "date": "8/17/2016 15:00",
+    "direction": 302.5,
+    "speed": 3.4
+  },
+  {
+    "date": "8/17/2016 18:00",
+    "direction": 315,
+    "speed": 4
+  },
+  {
+    "date": "8/17/2016 21:00",
+    "direction": 315.7,
+    "speed": 2.8
+  },
+  {
+    "date": "8/18/2016 0:00",
+    "direction": 290.2,
+    "speed": 0.7
+  },
+  {
+    "date": "8/18/2016 3:00",
+    "direction": 228.2,
+    "speed": 0.6
+  },
+  {
+    "date": "8/18/2016 6:00",
+    "direction": 196,
+    "speed": 0.7
+  },
+  {
+    "date": "8/18/2016 9:00",
+    "direction": 187.7,
+    "speed": 0.9
+  },
+  {
+    "date": "8/18/2016 12:00",
+    "direction": 183.6,
+    "speed": 1.1
+  },
+  {
+    "date": "8/18/2016 15:00",
+    "direction": 266.8,
+    "speed": 2.8
+  },
+  {
+    "date": "8/18/2016 18:00",
+    "direction": 289.4,
+    "speed": 2.9
+  },
+  {
+    "date": "8/18/2016 21:00",
+    "direction": 302.7,
+    "speed": 3.1
+  },
+  {
+    "date": "8/19/2016 0:00",
+    "direction": 301.3,
+    "speed": 1.3
+  },
+  {
+    "date": "8/19/2016 3:00",
+    "direction": 279.8,
+    "speed": 0.3
+  },
+  {
+    "date": "8/19/2016 6:00",
+    "direction": 279.8,
+    "speed": 0.2
+  },
+  {
+    "date": "8/19/2016 9:00",
+    "direction": 317.5,
+    "speed": 0.7
+  },
+  {
+    "date": "8/19/2016 12:00",
+    "direction": 326.3,
+    "speed": 1.1
+  },
+  {
+    "date": "8/19/2016 15:00",
+    "direction": 332.1,
+    "speed": 2.5
+  },
+  {
+    "date": "8/19/2016 18:00",
+    "direction": 320.9,
+    "speed": 2.5
+  },
+  {
+    "date": "8/19/2016 21:00",
+    "direction": 322.4,
+    "speed": 2.5
+  },
+  {
+    "date": "8/20/2016 0:00",
+    "direction": 328.7,
+    "speed": 1.1
+  },
+  {
+    "date": "8/20/2016 3:00",
+    "direction": 99.8,
+    "speed": 0.3
+  },
+  {
+    "date": "8/20/2016 6:00",
+    "direction": 113.8,
+    "speed": 1
+  },
+  {
+    "date": "8/20/2016 9:00",
+    "direction": 119.9,
+    "speed": 1.1
+  },
+  {
+    "date": "8/20/2016 12:00",
+    "direction": 137,
+    "speed": 1.7
+  },
+  {
+    "date": "8/20/2016 15:00",
+    "direction": 163.1,
+    "speed": 2.3
+  },
+  {
+    "date": "8/20/2016 18:00",
+    "direction": 167.2,
+    "speed": 3.4
+  },
+  {
+    "date": "8/20/2016 21:00",
+    "direction": 169.5,
+    "speed": 3.3
+  },
+  {
+    "date": "8/21/2016 0:00",
+    "direction": 148.3,
+    "speed": 2.2
+  },
+  {
+    "date": "8/21/2016 3:00",
+    "direction": 144.9,
+    "speed": 2
+  },
+  {
+    "date": "8/21/2016 6:00",
+    "direction": 157.1,
+    "speed": 2.4
+  },
+  {
+    "date": "8/21/2016 9:00",
+    "direction": 163.1,
+    "speed": 2.2
+  },
+  {
+    "date": "8/21/2016 12:00",
+    "direction": 163.3,
+    "speed": 3.8
+  },
+  {
+    "date": "8/21/2016 15:00",
+    "direction": 174,
+    "speed": 5
+  },
+  {
+    "date": "8/21/2016 18:00",
+    "direction": 169.4,
+    "speed": 5.4
+  },
+  {
+    "date": "8/21/2016 21:00",
+    "direction": 158.1,
+    "speed": 4.4
+  },
+  {
+    "date": "8/22/2016 0:00",
+    "direction": 164.7,
+    "speed": 3.1
+  },
+  {
+    "date": "8/22/2016 3:00",
+    "direction": 155,
+    "speed": 2.5
+  },
+  {
+    "date": "8/22/2016 6:00",
+    "direction": 185,
+    "speed": 0.5
+  },
+  {
+    "date": "8/22/2016 9:00",
+    "direction": 276,
+    "speed": 1.6
+  },
+  {
+    "date": "8/22/2016 12:00",
+    "direction": 287,
+    "speed": 2.8
+  },
+  {
+    "date": "8/22/2016 15:00",
+    "direction": 291.4,
+    "speed": 3.9
+  },
+  {
+    "date": "8/22/2016 18:00",
+    "direction": 296.3,
+    "speed": 4.1
+  },
+  {
+    "date": "8/22/2016 21:00",
+    "direction": 299.5,
+    "speed": 4.2
+  },
+  {
+    "date": "8/23/2016 0:00",
+    "direction": 302,
+    "speed": 3
+  },
+  {
+    "date": "8/23/2016 3:00",
+    "direction": 307.6,
+    "speed": 1.5
+  },
+  {
+    "date": "8/23/2016 6:00",
+    "direction": 253.8,
+    "speed": 0.7
+  },
+  {
+    "date": "8/23/2016 9:00",
+    "direction": 213.1,
+    "speed": 0.6
+  },
+  {
+    "date": "8/23/2016 12:00",
+    "direction": 209.2,
+    "speed": 0.7
+  },
+  {
+    "date": "8/23/2016 15:00",
+    "direction": 261.8,
+    "speed": 2.9
+  },
+  {
+    "date": "8/23/2016 18:00",
+    "direction": 251.5,
+    "speed": 3.3
+  },
+  {
+    "date": "8/23/2016 21:00",
+    "direction": 243.3,
+    "speed": 3.2
+  },
+  {
+    "date": "8/24/2016 0:00",
+    "direction": 244.1,
+    "speed": 1.6
+  },
+  {
+    "date": "8/24/2016 3:00",
+    "direction": 215.1,
+    "speed": 0.7
+  },
+  {
+    "date": "8/24/2016 6:00",
+    "direction": 173.3,
+    "speed": 0.8
+  },
+  {
+    "date": "8/24/2016 9:00",
+    "direction": 171,
+    "speed": 0.7
+  },
+  {
+    "date": "8/24/2016 12:00",
+    "direction": 165.7,
+    "speed": 0.7
+  },
+  {
+    "date": "8/24/2016 15:00",
+    "direction": 250.4,
+    "speed": 2.9
+  },
+  {
+    "date": "8/24/2016 18:00",
+    "direction": 237.1,
+    "speed": 2.6
+  },
+  {
+    "date": "8/24/2016 21:00",
+    "direction": 221.6,
+    "speed": 2.3
+  },
+  {
+    "date": "8/25/2016 0:00",
+    "direction": 197.5,
+    "speed": 1.1
+  },
+  {
+    "date": "8/25/2016 3:00",
+    "direction": 174.7,
+    "speed": 1.2
+  },
+  {
+    "date": "8/25/2016 6:00",
+    "direction": 197.4,
+    "speed": 1.5
+  },
+  {
+    "date": "8/25/2016 9:00",
+    "direction": 171.4,
+    "speed": 1.4
+  },
+  {
+    "date": "8/25/2016 12:00",
+    "direction": 200.6,
+    "speed": 2.8
+  },
+  {
+    "date": "8/25/2016 15:00",
+    "direction": 206.3,
+    "speed": 2.9
+  },
+  {
+    "date": "8/25/2016 18:00",
+    "direction": 211,
+    "speed": 3
+  },
+  {
+    "date": "8/25/2016 21:00",
+    "direction": 217.4,
+    "speed": 2.4
+  },
+  {
+    "date": "8/26/2016 0:00",
+    "direction": 222.6,
+    "speed": 1.6
+  },
+  {
+    "date": "8/26/2016 3:00",
+    "direction": 216.5,
+    "speed": 1.3
+  },
+  {
+    "date": "8/26/2016 6:00",
+    "direction": 178.3,
+    "speed": 1.1
+  },
+  {
+    "date": "8/26/2016 9:00",
+    "direction": 194.4,
+    "speed": 1.6
+  },
+  {
+    "date": "8/26/2016 12:00",
+    "direction": 199,
+    "speed": 0.9
+  },
+  {
+    "date": "8/26/2016 15:00",
+    "direction": 248.9,
+    "speed": 3
+  },
+  {
+    "date": "8/26/2016 18:00",
+    "direction": 273.6,
+    "speed": 3.9
+  },
+  {
+    "date": "8/26/2016 21:00",
+    "direction": 286.1,
+    "speed": 4.1
+  },
+  {
+    "date": "8/27/2016 0:00",
+    "direction": 291.6,
+    "speed": 2
+  },
+  {
+    "date": "8/27/2016 3:00",
+    "direction": 279.8,
+    "speed": 0.1
+  },
+  {
+    "date": "8/27/2016 6:00",
+    "direction": 308,
+    "speed": 0.4
+  },
+  {
+    "date": "8/27/2016 9:00",
+    "direction": 309.5,
+    "speed": 0.4
+  },
+  {
+    "date": "8/27/2016 12:00",
+    "direction": 323,
+    "speed": 0.9
+  },
+  {
+    "date": "8/27/2016 15:00",
+    "direction": 332.4,
+    "speed": 2.2
+  },
+  {
+    "date": "8/27/2016 18:00",
+    "direction": 323.8,
+    "speed": 2.4
+  },
+  {
+    "date": "8/27/2016 21:00",
+    "direction": 329.9,
+    "speed": 2
+  },
+  {
+    "date": "8/28/2016 0:00",
+    "direction": 320.2,
+    "speed": 0.6
+  },
+  {
+    "date": "8/28/2016 3:00",
+    "direction": 115.4,
+    "speed": 0.6
+  },
+  {
+    "date": "8/28/2016 6:00",
+    "direction": 116.9,
+    "speed": 1.3
+  },
+  {
+    "date": "8/28/2016 9:00",
+    "direction": 128.5,
+    "speed": 1
+  },
+  {
+    "date": "8/28/2016 12:00",
+    "direction": 161,
+    "speed": 1.4
+  },
+  {
+    "date": "8/28/2016 15:00",
+    "direction": 186.3,
+    "speed": 3.1
+  },
+  {
+    "date": "8/28/2016 18:00",
+    "direction": 191.7,
+    "speed": 3.1
+  },
+  {
+    "date": "8/28/2016 21:00",
+    "direction": 189.8,
+    "speed": 2.7
+  },
+  {
+    "date": "8/29/2016 0:00",
+    "direction": 178.2,
+    "speed": 1.4
+  },
+  {
+    "date": "8/29/2016 3:00",
+    "direction": 189.8,
+    "speed": 1.5
+  },
+  {
+    "date": "8/29/2016 6:00",
+    "direction": 225.9,
+    "speed": 1.2
+  },
+  {
+    "date": "8/29/2016 9:00",
+    "direction": 260.5,
+    "speed": 1.7
+  },
+  {
+    "date": "8/29/2016 12:00",
+    "direction": 288,
+    "speed": 2.7
+  },
+  {
+    "date": "8/29/2016 15:00",
+    "direction": 303.4,
+    "speed": 4.1
+  },
+  {
+    "date": "8/29/2016 18:00",
+    "direction": 309.6,
+    "speed": 4.2
+  },
+  {
+    "date": "8/29/2016 21:00",
+    "direction": 315.7,
+    "speed": 3.6
+  },
+  {
+    "date": "8/30/2016 0:00",
+    "direction": 315.7,
+    "speed": 1.2
+  },
+  {
+    "date": "8/30/2016 3:00",
+    "direction": "",
+    "speed": ""
+  },
+  {
+    "date": "8/30/2016 6:00",
+    "direction": 99.8,
+    "speed": 0.2
+  },
+  {
+    "date": "8/30/2016 9:00",
+    "direction": 189.8,
+    "speed": 0.3
+  },
+  {
+    "date": "8/30/2016 12:00",
+    "direction": 202.9,
+    "speed": 0.6
+  },
+  {
+    "date": "8/30/2016 15:00",
+    "direction": 262,
+    "speed": 1.7
+  },
+  {
+    "date": "8/30/2016 18:00",
+    "direction": 242.5,
+    "speed": 1.9
+  },
+  {
+    "date": "8/30/2016 21:00",
+    "direction": 262.4,
+    "speed": 2.1
+  },
+  {
+    "date": "8/31/2016 0:00",
+    "direction": 233.7,
+    "speed": 0.9
+  },
+  {
+    "date": "8/31/2016 3:00",
+    "direction": 161.7,
+    "speed": 0.9
+  },
+  {
+    "date": "8/31/2016 6:00",
+    "direction": 171.2,
+    "speed": 1
+  },
+  {
+    "date": "8/31/2016 9:00",
+    "direction": 185.9,
+    "speed": 1.1
+  },
+  {
+    "date": "8/31/2016 12:00",
+    "direction": 215.1,
+    "speed": 1.1
+  },
+  {
+    "date": "8/31/2016 15:00",
+    "direction": 236,
+    "speed": 2.4
+  },
+  {
+    "date": "8/31/2016 18:00",
+    "direction": 232.4,
+    "speed": 2.1
+  },
+  {
+    "date": "8/31/2016 21:00",
+    "direction": 235.3,
+    "speed": 1.6
+  },
+  {
+    "date": "",
+    "direction": "",
+    "speed": ""
+  },
+  {
+    "date": "12/1/2016 0:00",
+    "direction": 125.8,
+    "speed": 4.2
+  },
+  {
+    "date": "12/1/2016 3:00",
+    "direction": 128.4,
+    "speed": 4.7
+  },
+  {
+    "date": "12/1/2016 6:00",
+    "direction": 131.4,
+    "speed": 4.3
+  },
+  {
+    "date": "12/1/2016 9:00",
+    "direction": 129.7,
+    "speed": 5.5
+  },
+  {
+    "date": "12/1/2016 12:00",
+    "direction": 146.6,
+    "speed": 2
+  },
+  {
+    "date": "12/1/2016 15:00",
+    "direction": 175.5,
+    "speed": 0.4
+  },
+  {
+    "date": "12/1/2016 18:00",
+    "direction": 246.4,
+    "speed": 1.8
+  },
+  {
+    "date": "12/1/2016 21:00",
+    "direction": 261,
+    "speed": 3.7
+  },
+  {
+    "date": "12/2/2016 0:00",
+    "direction": 254.2,
+    "speed": 3
+  },
+  {
+    "date": "12/2/2016 3:00",
+    "direction": 272.1,
+    "speed": 3.2
+  },
+  {
+    "date": "12/2/2016 6:00",
+    "direction": 261.3,
+    "speed": 2.3
+  },
+  {
+    "date": "12/2/2016 9:00",
+    "direction": 253.4,
+    "speed": 2
+  },
+  {
+    "date": "12/2/2016 12:00",
+    "direction": 217.4,
+    "speed": 1.7
+  },
+  {
+    "date": "12/2/2016 15:00",
+    "direction": 225.9,
+    "speed": 2.5
+  },
+  {
+    "date": "12/2/2016 18:00",
+    "direction": 222.1,
+    "speed": 2.3
+  },
+  {
+    "date": "12/2/2016 21:00",
+    "direction": 258.3,
+    "speed": 2.6
+  },
+  {
+    "date": "12/3/2016 0:00",
+    "direction": 290.4,
+    "speed": 2.4
+  },
+  {
+    "date": "12/3/2016 3:00",
+    "direction": 283.4,
+    "speed": 3.1
+  },
+  {
+    "date": "12/3/2016 6:00",
+    "direction": 285.8,
+    "speed": 3
+  },
+  {
+    "date": "12/3/2016 9:00",
+    "direction": 294,
+    "speed": 3.6
+  },
+  {
+    "date": "12/3/2016 12:00",
+    "direction": 309.6,
+    "speed": 3.7
+  },
+  {
+    "date": "12/3/2016 15:00",
+    "direction": 306.8,
+    "speed": 3.5
+  },
+  {
+    "date": "12/3/2016 18:00",
+    "direction": 311.4,
+    "speed": 4
+  },
+  {
+    "date": "12/3/2016 21:00",
+    "direction": 314.7,
+    "speed": 3.7
+  },
+  {
+    "date": "12/4/2016 0:00",
+    "direction": 320.4,
+    "speed": 3.7
+  },
+  {
+    "date": "12/4/2016 3:00",
+    "direction": 313,
+    "speed": 3.6
+  },
+  {
+    "date": "12/4/2016 6:00",
+    "direction": 318,
+    "speed": 3.5
+  },
+  {
+    "date": "12/4/2016 9:00",
+    "direction": 308.2,
+    "speed": 3.2
+  },
+  {
+    "date": "12/4/2016 12:00",
+    "direction": 309.2,
+    "speed": 3.2
+  },
+  {
+    "date": "12/4/2016 15:00",
+    "direction": 313.2,
+    "speed": 3.7
+  },
+  {
+    "date": "12/4/2016 18:00",
+    "direction": 312.9,
+    "speed": 3.8
+  },
+  {
+    "date": "12/4/2016 21:00",
+    "direction": 318.9,
+    "speed": 2.7
+  },
+  {
+    "date": "12/5/2016 0:00",
+    "direction": 324.3,
+    "speed": 1.2
+  },
+  {
+    "date": "12/5/2016 3:00",
+    "direction": 38,
+    "speed": 0.3
+  },
+  {
+    "date": "12/5/2016 6:00",
+    "direction": 155.2,
+    "speed": 0.8
+  },
+  {
+    "date": "12/5/2016 9:00",
+    "direction": 150.5,
+    "speed": 1.2
+  },
+  {
+    "date": "12/5/2016 12:00",
+    "direction": 174.5,
+    "speed": 1.9
+  },
+  {
+    "date": "12/5/2016 15:00",
+    "direction": 140.2,
+    "speed": 2.2
+  },
+  {
+    "date": "12/5/2016 18:00",
+    "direction": 160.9,
+    "speed": 2.7
+  },
+  {
+    "date": "12/5/2016 21:00",
+    "direction": 175.8,
+    "speed": 1.8
+  },
+  {
+    "date": "12/6/2016 0:00",
+    "direction": 251.8,
+    "speed": 1.9
+  },
+  {
+    "date": "12/6/2016 3:00",
+    "direction": 293.3,
+    "speed": 2.9
+  },
+  {
+    "date": "12/6/2016 6:00",
+    "direction": 308.6,
+    "speed": 2.4
+  },
+  {
+    "date": "12/6/2016 9:00",
+    "direction": 311.7,
+    "speed": 1.8
+  },
+  {
+    "date": "12/6/2016 12:00",
+    "direction": 307.9,
+    "speed": 1.7
+  },
+  {
+    "date": "12/6/2016 15:00",
+    "direction": 321.1,
+    "speed": 1.8
+  },
+  {
+    "date": "12/6/2016 18:00",
+    "direction": 326,
+    "speed": 1.4
+  },
+  {
+    "date": "12/6/2016 21:00",
+    "direction": 355.5,
+    "speed": 0.6
+  },
+  {
+    "date": "12/7/2016 0:00",
+    "direction": 65.9,
+    "speed": 0.6
+  },
+  {
+    "date": "12/7/2016 3:00",
+    "direction": 134.9,
+    "speed": 0.7
+  },
+  {
+    "date": "12/7/2016 6:00",
+    "direction": 145,
+    "speed": 1.2
+  },
+  {
+    "date": "12/7/2016 9:00",
+    "direction": 153.4,
+    "speed": 1.3
+  },
+  {
+    "date": "12/7/2016 12:00",
+    "direction": 144.5,
+    "speed": 1.2
+  },
+  {
+    "date": "12/7/2016 15:00",
+    "direction": 184.1,
+    "speed": 2.2
+  },
+  {
+    "date": "12/7/2016 18:00",
+    "direction": 197.6,
+    "speed": 3
+  },
+  {
+    "date": "12/7/2016 21:00",
+    "direction": 221.5,
+    "speed": 2
+  },
+  {
+    "date": "12/8/2016 0:00",
+    "direction": 227.7,
+    "speed": 1.3
+  },
+  {
+    "date": "12/8/2016 3:00",
+    "direction": 242.8,
+    "speed": 1.8
+  },
+  {
+    "date": "12/8/2016 6:00",
+    "direction": 239.5,
+    "speed": 1.3
+  },
+  {
+    "date": "12/8/2016 9:00",
+    "direction": 221,
+    "speed": 1.9
+  },
+  {
+    "date": "12/8/2016 12:00",
+    "direction": 189.8,
+    "speed": 1.9
+  },
+  {
+    "date": "12/8/2016 15:00",
+    "direction": 211.8,
+    "speed": 2.7
+  },
+  {
+    "date": "12/8/2016 18:00",
+    "direction": 226,
+    "speed": 2.9
+  },
+  {
+    "date": "12/8/2016 21:00",
+    "direction": 271.4,
+    "speed": 3
+  },
+  {
+    "date": "12/9/2016 0:00",
+    "direction": 249.2,
+    "speed": 1.7
+  },
+  {
+    "date": "12/9/2016 3:00",
+    "direction": 253.9,
+    "speed": 3.8
+  },
+  {
+    "date": "12/9/2016 6:00",
+    "direction": 266.3,
+    "speed": 3.9
+  },
+  {
+    "date": "12/9/2016 9:00",
+    "direction": 283.2,
+    "speed": 4
+  },
+  {
+    "date": "12/9/2016 12:00",
+    "direction": 289.2,
+    "speed": 4.8
+  },
+  {
+    "date": "12/9/2016 15:00",
+    "direction": 290.6,
+    "speed": 4.2
+  },
+  {
+    "date": "12/9/2016 18:00",
+    "direction": 287.2,
+    "speed": 5.1
+  },
+  {
+    "date": "12/9/2016 21:00",
+    "direction": 286.1,
+    "speed": 4.5
+  },
+  {
+    "date": "12/10/2016 0:00",
+    "direction": 297,
+    "speed": 4.8
+  },
+  {
+    "date": "12/10/2016 3:00",
+    "direction": 308,
+    "speed": 4.4
+  },
+  {
+    "date": "12/10/2016 6:00",
+    "direction": 295.4,
+    "speed": 3.1
+  },
+  {
+    "date": "12/10/2016 9:00",
+    "direction": 308.8,
+    "speed": 3.4
+  },
+  {
+    "date": "12/10/2016 12:00",
+    "direction": 310.3,
+    "speed": 3
+  },
+  {
+    "date": "12/10/2016 15:00",
+    "direction": 309.4,
+    "speed": 4.1
+  },
+  {
+    "date": "12/10/2016 18:00",
+    "direction": 309.5,
+    "speed": 4
+  },
+  {
+    "date": "12/10/2016 21:00",
+    "direction": 309.9,
+    "speed": 3.2
+  },
+  {
+    "date": "12/11/2016 0:00",
+    "direction": 279.8,
+    "speed": 1.4
+  },
+  {
+    "date": "12/11/2016 3:00",
+    "direction": 239.8,
+    "speed": 0.8
+  },
+  {
+    "date": "12/11/2016 6:00",
+    "direction": 221,
+    "speed": 0.8
+  },
+  {
+    "date": "12/11/2016 9:00",
+    "direction": 228.1,
+    "speed": 0.8
+  },
+  {
+    "date": "12/11/2016 12:00",
+    "direction": 213.8,
+    "speed": 0.8
+  },
+  {
+    "date": "12/11/2016 15:00",
+    "direction": 227.6,
+    "speed": 1.1
+  },
+  {
+    "date": "12/11/2016 18:00",
+    "direction": 228.2,
+    "speed": 1.6
+  },
+  {
+    "date": "12/11/2016 21:00",
+    "direction": 215.6,
+    "speed": 1
+  },
+  {
+    "date": "12/12/2016 0:00",
+    "direction": 145.4,
+    "speed": 1.5
+  },
+  {
+    "date": "12/12/2016 3:00",
+    "direction": 137.6,
+    "speed": 1.9
+  },
+  {
+    "date": "12/12/2016 6:00",
+    "direction": 131.3,
+    "speed": 2.5
+  },
+  {
+    "date": "12/12/2016 9:00",
+    "direction": 136.8,
+    "speed": 3.5
+  },
+  {
+    "date": "12/12/2016 12:00",
+    "direction": 134,
+    "speed": 3.9
+  },
+  {
+    "date": "12/12/2016 15:00",
+    "direction": 142.9,
+    "speed": 2.5
+  },
+  {
+    "date": "12/12/2016 18:00",
+    "direction": 189.8,
+    "speed": 1.9
+  },
+  {
+    "date": "12/12/2016 21:00",
+    "direction": 208.7,
+    "speed": 1.5
+  },
+  {
+    "date": "12/13/2016 0:00",
+    "direction": 227.7,
+    "speed": 2.2
+  },
+  {
+    "date": "12/13/2016 3:00",
+    "direction": 272.4,
+    "speed": 3.3
+  },
+  {
+    "date": "12/13/2016 6:00",
+    "direction": 293.5,
+    "speed": 4.1
+  },
+  {
+    "date": "12/13/2016 9:00",
+    "direction": 293.5,
+    "speed": 3.7
+  },
+  {
+    "date": "12/13/2016 12:00",
+    "direction": 285.2,
+    "speed": 2.6
+  },
+  {
+    "date": "12/13/2016 15:00",
+    "direction": 269.3,
+    "speed": 2.7
+  },
+  {
+    "date": "12/13/2016 18:00",
+    "direction": 224.2,
+    "speed": 1.8
+  },
+  {
+    "date": "12/13/2016 21:00",
+    "direction": 181.2,
+    "speed": 1.9
+  },
+  {
+    "date": "12/14/2016 0:00",
+    "direction": 176.2,
+    "speed": 2.9
+  },
+  {
+    "date": "12/14/2016 3:00",
+    "direction": 176.2,
+    "speed": 2.5
+  },
+  {
+    "date": "12/14/2016 6:00",
+    "direction": 198.3,
+    "speed": 2.6
+  },
+  {
+    "date": "12/14/2016 9:00",
+    "direction": 216.3,
+    "speed": 2.6
+  },
+  {
+    "date": "12/14/2016 12:00",
+    "direction": 272,
+    "speed": 2.3
+  },
+  {
+    "date": "12/14/2016 15:00",
+    "direction": 290.9,
+    "speed": 3.6
+  },
+  {
+    "date": "12/14/2016 18:00",
+    "direction": 271,
+    "speed": 3.1
+  },
+  {
+    "date": "12/14/2016 21:00",
+    "direction": 229,
+    "speed": 1.5
+  },
+  {
+    "date": "12/15/2016 0:00",
+    "direction": 231,
+    "speed": 3.7
+  },
+  {
+    "date": "12/15/2016 3:00",
+    "direction": 204,
+    "speed": 2.7
+  },
+  {
+    "date": "12/15/2016 6:00",
+    "direction": 194.6,
+    "speed": 2.3
+  },
+  {
+    "date": "12/15/2016 9:00",
+    "direction": 279.8,
+    "speed": 0.2
+  },
+  {
+    "date": "12/15/2016 12:00",
+    "direction": 262.3,
+    "speed": 2.5
+  },
+  {
+    "date": "12/15/2016 15:00",
+    "direction": 279.8,
+    "speed": 5.4
+  },
+  {
+    "date": "12/15/2016 18:00",
+    "direction": 282.3,
+    "speed": 6.7
+  },
+  {
+    "date": "12/15/2016 21:00",
+    "direction": 284.6,
+    "speed": 4.6
+  },
+  {
+    "date": "12/16/2016 0:00",
+    "direction": 303.5,
+    "speed": 6.8
+  },
+  {
+    "date": "12/16/2016 3:00",
+    "direction": 304.2,
+    "speed": 6.3
+  },
+  {
+    "date": "12/16/2016 6:00",
+    "direction": 299.7,
+    "speed": 5.4
+  },
+  {
+    "date": "12/16/2016 9:00",
+    "direction": 301.6,
+    "speed": 4.8
+  },
+  {
+    "date": "12/16/2016 12:00",
+    "direction": 295.2,
+    "speed": 3.1
+  },
+  {
+    "date": "12/16/2016 15:00",
+    "direction": 286.8,
+    "speed": 3
+  },
+  {
+    "date": "12/16/2016 18:00",
+    "direction": 276.2,
+    "speed": 2.8
+  },
+  {
+    "date": "12/16/2016 21:00",
+    "direction": 227.1,
+    "speed": 1.4
+  },
+  {
+    "date": "12/17/2016 0:00",
+    "direction": 169.9,
+    "speed": 1.4
+  },
+  {
+    "date": "12/17/2016 3:00",
+    "direction": 186,
+    "speed": 1.9
+  },
+  {
+    "date": "12/17/2016 6:00",
+    "direction": 185.3,
+    "speed": 1.8
+  },
+  {
+    "date": "12/17/2016 9:00",
+    "direction": 164,
+    "speed": 1.9
+  },
+  {
+    "date": "12/17/2016 12:00",
+    "direction": 154.6,
+    "speed": 2.4
+  },
+  {
+    "date": "12/17/2016 15:00",
+    "direction": 156.9,
+    "speed": 2.5
+  },
+  {
+    "date": "12/17/2016 18:00",
+    "direction": 146.5,
+    "speed": 2.1
+  },
+  {
+    "date": "12/17/2016 21:00",
+    "direction": 161.8,
+    "speed": 1
+  },
+  {
+    "date": "12/18/2016 0:00",
+    "direction": 177.9,
+    "speed": 0.9
+  },
+  {
+    "date": "12/18/2016 3:00",
+    "direction": 173.3,
+    "speed": 1.4
+  },
+  {
+    "date": "12/18/2016 6:00",
+    "direction": 165.9,
+    "speed": 1.6
+  },
+  {
+    "date": "12/18/2016 9:00",
+    "direction": 173.6,
+    "speed": 2.2
+  },
+  {
+    "date": "12/18/2016 12:00",
+    "direction": 186.5,
+    "speed": 2.3
+  },
+  {
+    "date": "12/18/2016 15:00",
+    "direction": 182,
+    "speed": 3.5
+  },
+  {
+    "date": "12/18/2016 18:00",
+    "direction": 291.6,
+    "speed": 3.7
+  },
+  {
+    "date": "12/18/2016 21:00",
+    "direction": 287.7,
+    "speed": 4.1
+  },
+  {
+    "date": "12/19/2016 0:00",
+    "direction": 292.5,
+    "speed": 4.4
+  },
+  {
+    "date": "12/19/2016 3:00",
+    "direction": 299.9,
+    "speed": 5.1
+  },
+  {
+    "date": "12/19/2016 6:00",
+    "direction": 308.5,
+    "speed": 3.9
+  },
+  {
+    "date": "12/19/2016 9:00",
+    "direction": 313.4,
+    "speed": 2.8
+  },
+  {
+    "date": "12/19/2016 12:00",
+    "direction": 318.1,
+    "speed": 1
+  },
+  {
+    "date": "12/19/2016 15:00",
+    "direction": 299.1,
+    "speed": 1.3
+  },
+  {
+    "date": "12/19/2016 18:00",
+    "direction": 300.1,
+    "speed": 1.6
+  },
+  {
+    "date": "12/19/2016 21:00",
+    "direction": 249.2,
+    "speed": 0.9
+  },
+  {
+    "date": "12/20/2016 0:00",
+    "direction": 222.7,
+    "speed": 1
+  },
+  {
+    "date": "12/20/2016 3:00",
+    "direction": 184.8,
+    "speed": 1
+  },
+  {
+    "date": "12/20/2016 6:00",
+    "direction": 208.4,
+    "speed": 0.6
+  },
+  {
+    "date": "12/20/2016 9:00",
+    "direction": 175.3,
+    "speed": 0.4
+  },
+  {
+    "date": "12/20/2016 12:00",
+    "direction": 182.6,
+    "speed": 0.7
+  },
+  {
+    "date": "12/20/2016 15:00",
+    "direction": 176.4,
+    "speed": 1.9
+  },
+  {
+    "date": "12/20/2016 18:00",
+    "direction": 195.9,
+    "speed": 3
+  },
+  {
+    "date": "12/20/2016 21:00",
+    "direction": 179.8,
+    "speed": 2.9
+  },
+  {
+    "date": "12/21/2016 0:00",
+    "direction": 189.8,
+    "speed": 2.9
+  },
+  {
+    "date": "12/21/2016 3:00",
+    "direction": 200.3,
+    "speed": 3.2
+  },
+  {
+    "date": "12/21/2016 6:00",
+    "direction": 215.6,
+    "speed": 2.5
+  },
+  {
+    "date": "12/21/2016 9:00",
+    "direction": 216.8,
+    "speed": 2.6
+  },
+  {
+    "date": "12/21/2016 12:00",
+    "direction": 211.2,
+    "speed": 2.2
+  },
+  {
+    "date": "12/21/2016 15:00",
+    "direction": 242.2,
+    "speed": 2.3
+  },
+  {
+    "date": "12/21/2016 18:00",
+    "direction": 252.5,
+    "speed": 3.8
+  },
+  {
+    "date": "12/21/2016 21:00",
+    "direction": 256.8,
+    "speed": 3.6
+  },
+  {
+    "date": "12/22/2016 0:00",
+    "direction": 259.3,
+    "speed": 2.1
+  },
+  {
+    "date": "12/22/2016 3:00",
+    "direction": 251.6,
+    "speed": 2.2
+  },
+  {
+    "date": "12/22/2016 6:00",
+    "direction": 218.5,
+    "speed": 1.4
+  },
+  {
+    "date": "12/22/2016 9:00",
+    "direction": 188.7,
+    "speed": 2
+  },
+  {
+    "date": "12/22/2016 12:00",
+    "direction": 186.5,
+    "speed": 2.5
+  },
+  {
+    "date": "12/22/2016 15:00",
+    "direction": 187.9,
+    "speed": 2.4
+  },
+  {
+    "date": "12/22/2016 18:00",
+    "direction": 203.5,
+    "speed": 1.9
+  },
+  {
+    "date": "12/22/2016 21:00",
+    "direction": 271.2,
+    "speed": 1.3
+  },
+  {
+    "date": "12/23/2016 0:00",
+    "direction": 299.5,
+    "speed": 2.1
+  },
+  {
+    "date": "12/23/2016 3:00",
+    "direction": 296.2,
+    "speed": 2.6
+  },
+  {
+    "date": "12/23/2016 6:00",
+    "direction": 293.9,
+    "speed": 3.2
+  },
+  {
+    "date": "12/23/2016 9:00",
+    "direction": 279.8,
+    "speed": 3
+  },
+  {
+    "date": "12/23/2016 12:00",
+    "direction": 257.2,
+    "speed": 2.6
+  },
+  {
+    "date": "12/23/2016 15:00",
+    "direction": 263.1,
+    "speed": 3.6
+  },
+  {
+    "date": "12/23/2016 18:00",
+    "direction": 237.7,
+    "speed": 3.2
+  },
+  {
+    "date": "12/23/2016 21:00",
+    "direction": 232.2,
+    "speed": 2.6
+  },
+  {
+    "date": "12/24/2016 0:00",
+    "direction": 202.6,
+    "speed": 1.6
+  },
+  {
+    "date": "12/24/2016 3:00",
+    "direction": 172.3,
+    "speed": 1.2
+  },
+  {
+    "date": "12/24/2016 6:00",
+    "direction": 180.3,
+    "speed": 1.5
+  },
+  {
+    "date": "12/24/2016 9:00",
+    "direction": 179.9,
+    "speed": 1.2
+  },
+  {
+    "date": "12/24/2016 12:00",
+    "direction": 165,
+    "speed": 2
+  },
+  {
+    "date": "12/24/2016 15:00",
+    "direction": 203.2,
+    "speed": 4
+  },
+  {
+    "date": "12/24/2016 18:00",
+    "direction": 205.5,
+    "speed": 3.4
+  },
+  {
+    "date": "12/24/2016 21:00",
+    "direction": 268.1,
+    "speed": 3.6
+  },
+  {
+    "date": "12/25/2016 0:00",
+    "direction": 282.3,
+    "speed": 3.5
+  },
+  {
+    "date": "12/25/2016 3:00",
+    "direction": 278.3,
+    "speed": 3.9
+  },
+  {
+    "date": "12/25/2016 6:00",
+    "direction": 279.8,
+    "speed": 4.3
+  },
+  {
+    "date": "12/25/2016 9:00",
+    "direction": 298,
+    "speed": 4.8
+  },
+  {
+    "date": "12/25/2016 12:00",
+    "direction": 312.9,
+    "speed": 5.5
+  },
+  {
+    "date": "12/25/2016 15:00",
+    "direction": 321.2,
+    "speed": 5.9
+  },
+  {
+    "date": "12/25/2016 18:00",
+    "direction": 323,
+    "speed": 5
+  },
+  {
+    "date": "12/25/2016 21:00",
+    "direction": 326.7,
+    "speed": 3.7
+  },
+  {
+    "date": "12/26/2016 0:00",
+    "direction": 332.1,
+    "speed": 2.1
+  },
+  {
+    "date": "12/26/2016 3:00",
+    "direction": 319.2,
+    "speed": 1.4
+  },
+  {
+    "date": "12/26/2016 6:00",
+    "direction": 345.9,
+    "speed": 0.5
+  },
+  {
+    "date": "12/26/2016 9:00",
+    "direction": 78.9,
+    "speed": 0.7
+  },
+  {
+    "date": "12/26/2016 12:00",
+    "direction": 130.6,
+    "speed": 0.9
+  },
+  {
+    "date": "12/26/2016 15:00",
+    "direction": 147.1,
+    "speed": 1.8
+  },
+  {
+    "date": "12/26/2016 18:00",
+    "direction": 162.4,
+    "speed": 3.4
+  },
+  {
+    "date": "12/26/2016 21:00",
+    "direction": 166.8,
+    "speed": 5.4
+  },
+  {
+    "date": "12/27/2016 0:00",
+    "direction": 174.7,
+    "speed": 4.6
+  },
+  {
+    "date": "12/27/2016 3:00",
+    "direction": 177.8,
+    "speed": 4.9
+  },
+  {
+    "date": "12/27/2016 6:00",
+    "direction": 189.8,
+    "speed": 3.8
+  },
+  {
+    "date": "12/27/2016 9:00",
+    "direction": 205.2,
+    "speed": 3.3
+  },
+  {
+    "date": "12/27/2016 12:00",
+    "direction": 241.3,
+    "speed": 4.9
+  },
+  {
+    "date": "12/27/2016 15:00",
+    "direction": 273.8,
+    "speed": 4.6
+  },
+  {
+    "date": "12/27/2016 18:00",
+    "direction": 275.6,
+    "speed": 4.3
+  },
+  {
+    "date": "12/27/2016 21:00",
+    "direction": 284,
+    "speed": 4.8
+  },
+  {
+    "date": "12/28/2016 0:00",
+    "direction": 284,
+    "speed": 4.5
+  },
+  {
+    "date": "12/28/2016 3:00",
+    "direction": 272,
+    "speed": 3.4
+  },
+  {
+    "date": "12/28/2016 6:00",
+    "direction": 270,
+    "speed": 3.4
+  },
+  {
+    "date": "12/28/2016 9:00",
+    "direction": 271.3,
+    "speed": 3.1
+  },
+  {
+    "date": "12/28/2016 12:00",
+    "direction": 282.5,
+    "speed": 2.9
+  },
+  {
+    "date": "12/28/2016 15:00",
+    "direction": 303.5,
+    "speed": 2.9
+  },
+  {
+    "date": "12/28/2016 18:00",
+    "direction": 300.4,
+    "speed": 3.5
+  },
+  {
+    "date": "12/28/2016 21:00",
+    "direction": 308.4,
+    "speed": 2.9
+  },
+  {
+    "date": "12/29/2016 0:00",
+    "direction": 307.7,
+    "speed": 1.1
+  },
+  {
+    "date": "12/29/2016 3:00",
+    "direction": 234.7,
+    "speed": 0.4
+  },
+  {
+    "date": "12/29/2016 6:00",
+    "direction": 143.2,
+    "speed": 0.7
+  },
+  {
+    "date": "12/29/2016 9:00",
+    "direction": 128.5,
+    "speed": 1.3
+  },
+  {
+    "date": "12/29/2016 12:00",
+    "direction": 138.8,
+    "speed": 2.8
+  },
+  {
+    "date": "12/29/2016 15:00",
+    "direction": 145.5,
+    "speed": 3.9
+  },
+  {
+    "date": "12/29/2016 18:00",
+    "direction": 141.3,
+    "speed": 3.4
+  },
+  {
+    "date": "12/29/2016 21:00",
+    "direction": 127,
+    "speed": 3.3
+  },
+  {
+    "date": "12/30/2016 0:00",
+    "direction": 125.7,
+    "speed": 1.9
+  },
+  {
+    "date": "12/30/2016 3:00",
+    "direction": 110.9,
+    "speed": 0.5
+  },
+  {
+    "date": "12/30/2016 6:00",
+    "direction": 311,
+    "speed": 3.3
+  },
+  {
+    "date": "12/30/2016 9:00",
+    "direction": 288,
+    "speed": 6
+  },
+  {
+    "date": "12/30/2016 12:00",
+    "direction": 275.9,
+    "speed": 5.1
+  },
+  {
+    "date": "12/30/2016 15:00",
+    "direction": 261.4,
+    "speed": 4.1
+  },
+  {
+    "date": "12/30/2016 18:00",
+    "direction": 265.9,
+    "speed": 5.1
+  },
+  {
+    "date": "12/30/2016 21:00",
+    "direction": 269.9,
+    "speed": 4.9
+  },
+  {
+    "date": "12/31/2016 0:00",
+    "direction": 276.8,
+    "speed": 4.6
+  },
+  {
+    "date": "12/31/2016 3:00",
+    "direction": 282.5,
+    "speed": 4.1
+  },
+  {
+    "date": "12/31/2016 6:00",
+    "direction": 277,
+    "speed": 3.6
+  },
+  {
+    "date": "12/31/2016 9:00",
+    "direction": 282.5,
+    "speed": 3.1
+  },
+  {
+    "date": "12/31/2016 12:00",
+    "direction": 279.8,
+    "speed": 1.5
+  },
+  {
+    "date": "12/31/2016 15:00",
+    "direction": 207.1,
+    "speed": 1.9
+  },
+  {
+    "date": "12/31/2016 18:00",
+    "direction": 177,
+    "speed": 3.3
+  },
+  {
+    "date": "12/31/2016 21:00",
+    "direction": 161,
+    "speed": 3.5
+  }
+]

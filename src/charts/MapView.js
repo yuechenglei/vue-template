@@ -3,9 +3,12 @@
  * author: yuechenglei
  * describe: map
  */
-
+// import * as d3 from 'd3'
 import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
+
+import jsond from "../data/data.json"
+const d3 = require('d3');
 
 
 export default class {
@@ -13,6 +16,14 @@ export default class {
     this.el = el
     // console.log(el)
     this.init()
+
+    console.log(jsond)
+    d3.csv("../static/d.csv", function(error, data) {
+      if (error) throw error;
+
+      // Load the CSV data
+      console.log(data)
+    })
   }
 
 

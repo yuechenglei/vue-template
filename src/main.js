@@ -5,9 +5,9 @@ import Vuex from 'vuex'
 Vue.use(Vuex)
 import App from './App'
 import router from './router'
-import store from './vuex/index'; //store
+import store from './vuex/index' //store
 
-import 'font-awesome/css/font-awesome.css';
+import 'font-awesome/css/font-awesome.css'
 import iView from 'iview'
 import 'iview/dist/styles/iview.css'
 Vue.use(iView)
@@ -24,6 +24,7 @@ Vue.prototype.$utils = utils
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
+
 new Vue({
   el: '#app',
   router,
@@ -31,3 +32,4 @@ new Vue({
   template: '<App/>',
   components: { App }
 })
+
