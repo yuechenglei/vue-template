@@ -36,16 +36,20 @@ export default {
     var self = this;
     this.$Loading.start();
     await d3.json("../static/data.json", function(error, data) {
-      if (error) throw error;
-
-      // Load the CSV data
+      if (error) {
+        self.$Loading.error()
+        throw error;
+      }
+      // Load the json data
       self.sleep(1000)
       console.log(data)
     })
 
     await d3.csv("../static/d.csv", function(error, data) {
-      if (error) throw error;
-
+      if (error) {
+        self.$Loading.error()
+        throw error;
+      }
       // Load the CSV data
       self.sleep(1000)
       console.log(data)
