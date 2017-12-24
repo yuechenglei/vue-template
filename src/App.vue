@@ -35,6 +35,7 @@ export default {
   async created() {
     var self = this;
     this.$Loading.start();
+    
     await d3.json("../static/data.json", function(error, data) {
       if (error) {
         self.$Loading.error()
